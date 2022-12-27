@@ -1,0 +1,6 @@
+@import url(./banner/banner.css);
+.main__contenedor{
+
+    height: calc(100vh - 30vh);
+    width: 100vw;
+}
